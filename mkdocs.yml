@@ -1,4 +1,4 @@
-site_name: "Documentation for lunch app"
+site_name: "Documentation for user service"
 
 nav:
   - Overview: index.md
