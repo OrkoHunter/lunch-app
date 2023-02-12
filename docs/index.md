@@ -1,4 +1,4 @@
-# Lunch App
+# User Service
 
 ## Installation
 
